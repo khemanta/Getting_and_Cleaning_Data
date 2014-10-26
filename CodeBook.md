@@ -1,11 +1,11 @@
-### CodeBook 
+## CodeBook 
 =============================
 
-Data source
+###Data source
 -----------
 This dataset is derived from the "Human Activity Recognition Using Smartphones Data Set" which was originally made avaiable here: http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
-Feature Selection 
+###Feature Selection 
 -----------------
 I refer you to the README and features.txt files in the original dataset to learn more about the feature selection for this dataset. And there you will find the follow description:
 
